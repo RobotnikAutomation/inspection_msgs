@@ -21,6 +21,7 @@ add_service_files(
   FILES
   RecordAudio.srv
   Screenshot.srv
+  SetCameraOrientation.srv
 )
 
 #add_action_files(
