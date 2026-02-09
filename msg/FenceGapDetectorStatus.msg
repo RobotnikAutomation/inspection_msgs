@@ -1,0 +1,7 @@
+string DETECTOR_ENABLED=enabled
+string DETECTOR_DISABLED=disabled
+string DETECTOR_ERROR=error
+
+string detector_status
+bool fence_gap_detection
+int32 number_of_gaps
